@@ -1,0 +1,13 @@
+## Interface: 11200
+## Title: IgnoreMore
+## Notes: v1.02. Ignore more than 49 people, autoshared between your alts
+## Author: Mikk of Bloodhoof-EU
+## Version: 1.02
+## eMail: dpsgnome@mail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: Chatr, ForgottenChat
+## SavedVariables: IgM_SV
+## SavedVariablesPerCharacter: 
+
+IgnoreMore.lua
